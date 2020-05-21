@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baby-lamb/static/css/main.d3dcb8f1.chunk.css",
+    "main.js": "/baby-lamb/static/js/main.4cede089.chunk.js",
+    "main.js.map": "/baby-lamb/static/js/main.4cede089.chunk.js.map",
+    "runtime-main.js": "/baby-lamb/static/js/runtime-main.7fea7a28.js",
+    "runtime-main.js.map": "/baby-lamb/static/js/runtime-main.7fea7a28.js.map",
+    "static/js/2.f6e8e699.chunk.js": "/baby-lamb/static/js/2.f6e8e699.chunk.js",
+    "static/js/2.f6e8e699.chunk.js.map": "/baby-lamb/static/js/2.f6e8e699.chunk.js.map",
+    "index.html": "/baby-lamb/index.html",
+    "precache-manifest.9af00e318c5b226018c85fb89d2d3cef.js": "/baby-lamb/precache-manifest.9af00e318c5b226018c85fb89d2d3cef.js",
+    "service-worker.js": "/baby-lamb/service-worker.js",
+    "static/css/main.d3dcb8f1.chunk.css.map": "/baby-lamb/static/css/main.d3dcb8f1.chunk.css.map",
+    "static/js/2.f6e8e699.chunk.js.LICENSE.txt": "/baby-lamb/static/js/2.f6e8e699.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fea7a28.js",
+    "static/js/2.f6e8e699.chunk.js",
+    "static/css/main.d3dcb8f1.chunk.css",
+    "static/js/main.4cede089.chunk.js"
+  ]
+}
